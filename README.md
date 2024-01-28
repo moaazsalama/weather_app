@@ -50,7 +50,7 @@ git clone https://github.com/moaazsalama/weather_app.git
 2. Navigate to the project directory:
 
 ```bash
-cd weather-app
+cd weather_app
 ```
 
 3. Install the dependencies:

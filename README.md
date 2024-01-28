@@ -34,31 +34,6 @@ The Weather App is a Flutter application that provides users with real-time weat
 
 - **Storing & Encryption:** Stores the fetched weather data for the week and encrypts it for enhanced security.
 
-## Task
-
-### Flutter Code Challenge
-
-**Summary:**
-Develop a Weather Forecast application using Flutter that displays weather information for different cities. The app should follow the MVVM clean architecture and demonstrate effective state management, API integration, and handling of dynamic data.
-
-**Must Haves:**
-
-- MVVM Architecture
-- State Management
-- API Integration
-- Dynamic UI Updates
-- Error Handling
-- User Input for City Selection
-- Local Caching
-- Unit Testing
-
-**Bonus:**
-
-- Advanced UI Interactions
-- Theme Switching
-- Flavors
-- Storing & Encryption
-
 ## Requirements
 
 - **Flutter:** [Install Flutter](https://flutter.dev/docs/get-started/install)

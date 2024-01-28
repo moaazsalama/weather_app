@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_modular/flutter_modular.dart';
-import 'package:weather_app/viewmodel/bloc/app_bloc.dart';
+import 'package:weather_app/viewmodel/app/app_bloc.dart';
 
 class AppColors {
   static const backgroundStart = Color.fromARGB(255, 31, 6, 87);

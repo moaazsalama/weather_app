@@ -9,7 +9,7 @@ import 'package:weather_app/core/location/location_service.dart';
 import 'package:weather_app/services/weather/weather_service.dart';
 import 'package:weather_app/services/weather/weather_service_interface.dart';
 import 'package:weather_app/services/weather_cache/weather_cache_service.dart';
-import 'package:weather_app/viewmodel/bloc/app_bloc.dart';
+import 'package:weather_app/viewmodel/app/app_bloc.dart';
 import 'package:weather_app/viewmodel/weather/weather_bloc.dart';
 
 List<Bind> get injector {

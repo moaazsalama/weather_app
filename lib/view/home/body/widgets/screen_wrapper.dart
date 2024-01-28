@@ -4,7 +4,7 @@ import 'package:flutter_modular/flutter_modular.dart';
 import 'package:weather_app/assets/assets_manger.dart';
 import 'package:weather_app/core/helper/constants.dart';
 import 'package:weather_app/core/theme/app_colors.dart';
-import 'package:weather_app/viewmodel/bloc/app_bloc.dart';
+import 'package:weather_app/viewmodel/app/app_bloc.dart';
 
 class ScreenWrapper extends StatelessWidget {
   final Widget child;

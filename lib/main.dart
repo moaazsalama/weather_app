@@ -4,7 +4,7 @@ import 'package:flutter_modular/flutter_modular.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:weather_app/core/routes/module.dart';
 import 'package:weather_app/core/theme/app_theme.dart';
-import 'package:weather_app/viewmodel/bloc/app_bloc.dart';
+import 'package:weather_app/viewmodel/app/app_bloc.dart';
 import 'package:weather_app/viewmodel/weather/weather_bloc.dart';
 //request handler
 

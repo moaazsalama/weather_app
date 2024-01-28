@@ -17,7 +17,7 @@ import 'package:weather_app/view/home/body/widgets/screen_wrapper.dart';
 import 'package:weather_app/view/home/body/widgets/weather_node_tile.dart';
 import 'package:weather_app/view/home/body/widgets/weather_node_type_widget.dart';
 import 'package:weather_app/view/home/body/widgets/weather_node_widget.dart';
-import 'package:weather_app/viewmodel/bloc/app_bloc.dart';
+import 'package:weather_app/viewmodel/app/app_bloc.dart';
 import 'package:weather_app/viewmodel/weather/weather_bloc.dart';
 
 import 'widgets/animated_image.dart';

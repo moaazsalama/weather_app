@@ -75,20 +75,22 @@ Develop a Weather Forecast application using Flutter that displays weather infor
 
 ```bash
 git clone https://github.com/your-username/weather-app.git
+```
 
 2. Navigate to the project directory:
 
-
 ```bash
 cd weather-app
-'''
-3. Install the dependencies:
+```
 
+3. Install the dependencies:
 
 ```bash
 flutter pub get
+```
+
 4. Run the app:
+
 ```bash
 flutter run
 ```
-

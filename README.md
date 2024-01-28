@@ -74,7 +74,7 @@ Develop a Weather Forecast application using Flutter that displays weather infor
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/moaazsalama/weather_app.git
 ```
 
 2. Navigate to the project directory:

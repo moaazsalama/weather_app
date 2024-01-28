@@ -59,11 +59,6 @@ Develop a Weather Forecast application using Flutter that displays weather infor
 - Flavors
 - Storing & Encryption
 
-**Submission:**
-
-- Submit the code on a GitHub repository.
-- Include a README file containing a summary of the application and instructions, if any, to set up the project.
-
 ## Requirements
 
 - **Flutter:** [Install Flutter](https://flutter.dev/docs/get-started/install)

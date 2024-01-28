@@ -30,8 +30,9 @@ The Weather App is a Flutter application that provides users with real-time weat
 
 - **Theme Switching:** Implements a feature to toggle between light and dark themes for user customization.
 
-- **Flavors:** Utilizes flavors in the app for different configurations. Get creative with different versions or builds.
-
+- **Flavors:** Utilizes flavors in the app for different configurations. We use it in dev mode and production mode.
+  Production mode: have a Device Preview Feature.
+  Release mode : Disable Device Preview Feature 
 - **Storing & Encryption:** Stores the fetched weather data for the week and encrypts it for enhanced security.
 
 ## Requirements

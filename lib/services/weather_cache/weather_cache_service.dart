@@ -19,6 +19,7 @@ class WeatherCacheService {
     if (cachedWeather != null) {
       return Weather.fromJson(cachedWeather);
     }
+    return null;
   }
 
   Future<void> cacheAllDayWeather(String name, String json) async {
@@ -32,6 +33,7 @@ class WeatherCacheService {
     if (result != null) {
       return AllDay.fromJson(result);
     }
+    return null;
   }
 
   Future<String?> getLastCachedWeather() async {

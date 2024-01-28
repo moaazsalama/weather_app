@@ -8,15 +8,15 @@ The Weather App is a Flutter application that provides users with real-time weat
 
 ## Features
 
-- **MVVM Architecture:** The app is structured using the MVVM design pattern to ensure a clean separation of concerns between the model, view, and viewmodel layers.
+- **MVVM Architecture:** The app is structured using the MVVM design pattern to ensure a clean separation of concerns between the model, view, and ViewModel layers.
 
-- **State Management:** Implements a robust state management solution, such as Provider, Bloc, or any other advanced state management tool, to handle the app's state effectively.
+- **State Management:** Implements a robust state management solution with Bloc advanced state management tool, to handle the app's state effectively.
 
 - **API Integration:** Connects to a public weather API to fetch real-time weather data, including information such as temperature, humidity, wind speed, and weather conditions.
 
 - **Dynamic UI Updates:** The UI updates dynamically based on the API responses. Efficiently implements loading, error, and data states.
 
-- **Error Handling:** Utilizes a sophisticated error handling strategy for API call failures, providing user-friendly error messages.
+- **Error Handling:** Utilizes a sophisticated error handling strategy for API calls  providing user-friendly error messages.
 
 - **User Input:** Allows users to select different cities for which they want to see the weather. This could involve a search function or a dropdown menu.
 
